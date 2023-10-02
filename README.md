@@ -1,4 +1,9 @@
 # OSOCR-News
+## 1st, OCT, 2023
+
+We *will* drop the support of 8Gib GPUs for training in future iterations. We will try to make regular models fit into 10Gib cards for training (we will know by halloween)...
+
+
 ----------------------------------
 
 ## 29th, May, 2023
