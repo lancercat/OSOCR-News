@@ -1,5 +1,14 @@
 # OSOCR-News
-## 1st, OCT, 2023
+## 29th, OCT, 2023
+NG framework will be delayed for a while due to all kinds of paperwork, writing, and relocation preparations...  The framework itself is 80% done, but I have no time and resources to deploy and tune it. 
+
+Spoiler: The NG framework will natively support multi-GPU parallel training but in a really weird way. 
+
+(you can have your guess now, we will hopefully ship that part in late 2024 if smooth.)
+
+10GB cards will be supported till 2025. 
+
+## 1st, OCT, 2023i
 
 We *will* drop the support of 8Gib GPUs for training in future iterations. We will try to make regular models fit into 10Gib cards for training (we will know by halloween)...
 
