@@ -1,6 +1,6 @@
 # OSOCR-News
 ## 29th, OCT, 2023
-NG framework will be delayed for a while due to all kinds of paperwork, writing, and relocation preparations...  The framework itself is 80% done, but I have no time and resources to deploy and tune it. 
+NG framework will be delayed for a while due to all kinds of paperwork, writing, and relocation preparations...  The framework itself is 80% done (usable if you don't need multigpu that is), but I have no time and resources to deploy and tune it. 
 
 Spoiler: The NG framework will natively support multi-GPU parallel training but in a really weird way. 
 
