@@ -1,4 +1,6 @@
 # OSOCR-News
+## 17th, OCT, 2023
+The NG framework may require pytorch>=2.1
 ## 29th, OCT, 2023
 NG framework will be delayed for a while due to all kinds of paperwork, writing, and relocation preparations...  The framework itself is 80% done (usable if you don't need multigpu that is), but I have no time and resources to deploy and tune it. 
 
