@@ -1,4 +1,7 @@
 # OSOCR-News
+## 1st, Feb, 2024
+The NG framework will come with a lot of DLCs, so expect some weird [optional] dependencies :-)
+
 ## 18th, Jan, 2024
 ~~The NG framework may require pytorch>=2.1~~
 The sparsity feature is not used in the end. The first method based on the NG framework is under ablative, see you ppl soon. 
