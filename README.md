@@ -1,4 +1,7 @@
 # OSOCR-News
+## 10th, Feb, 2024
+The core of the NG framework is taking shape. 
+
 ## 1st, Feb, 2024
 The NG framework will come with a lot of DLCs, so expect some weird [optional] dependencies :-)
 
