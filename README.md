@@ -1,6 +1,7 @@
 # OSOCR-News
 ## 28th, Feb, 2024
 Allow me to expand this repo to QA a bit, before we resume on the multi-gpu approach.
+
 The next revision will hopefully be ready by April Fool's day.
 
 
