@@ -1,6 +1,6 @@
 # OSOCR-News
 ## 29th, Mar, 2024
-The QA DLC will be delayed, as we find few use cases for an open-end QA. 
+The QA DLC will be delayed, as we find few benchmarks for an open-end VQA model. 
 
 The next relase will still be solely single-gpu OCR. 
 
