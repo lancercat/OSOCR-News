@@ -1,4 +1,12 @@
 # OSOCR-News
+## 29th, Mar, 2024
+The QA DLC will be delayed, as we find few use cases for an open-end QA. 
+
+The next relase will still be solely single-gpu OCR. 
+
+But changes are indeed happening, they are just slower than expected (partially bcs I am still adapting to the new lifestyle).
+
+
 ## 28th, Feb, 2024
 Allow me to expand this repo to QA a bit, before we resume on the multi-gpu approach.
 
