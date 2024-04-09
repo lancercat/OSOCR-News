@@ -1,4 +1,11 @@
 # OSOCR-News
+## ⑨ th, Apr, 2024
+Another project is about to reach training stage (coding is mostly done), which brings some interesting new features.
+
+Hope we can get some results in May.
+
+Happy the ⑨th day of a month~
+
 ## 29th, Mar, 2024
 The QA DLC will be delayed, as we find few benchmarks for an open-end VQA model. 
 
