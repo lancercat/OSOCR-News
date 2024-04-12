@@ -1,8 +1,13 @@
 # OSOCR-News
 ## 12th, Apr, 2024
-We started to tidy up and will release the first version of the NG-framework (likely before May). See you in ICDAR24.
+We started to tidy up and will release the first version of the NG-framework (likely before May). 
 
-BTW, the whole NG framework is current going towards version two. Hope we can show some thing far more interesting than this in near future. 
+See you in ICDAR24.
+
+BTW, the whole NG framework is current going towards version two, and there will be a planned version 3 by halloween.
+
+Hope we can show you ppl some thing far more interesting than this in near future. 
+
 
 
 ## ⑨ th, Apr, 2024
