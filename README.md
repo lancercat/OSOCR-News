@@ -1,4 +1,8 @@
 # OSOCR-News
+## 12th, Apr, 2024
+We started to tidy up and release the first version of the NG-framework. See you in ICDAR24. 
+
+
 ## ⑨ th, Apr, 2024
 Another project is about to reach training stage (coding is mostly done), which brings some interesting new features.
 
