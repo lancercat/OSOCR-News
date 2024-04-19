@@ -1,4 +1,7 @@
 # OSOCR-News
+## 18th, Apr, 2024
+OAPR released. Note it is still built with the first generation framework. The NG framework starts with Moose.
+
 ## 12th, Apr, 2024
 We started to tidy up and will release the first version of the NG-framework (likely before May). 
 
