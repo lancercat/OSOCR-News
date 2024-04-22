@@ -1,4 +1,12 @@
 # OSOCR-News
+## 22th, Apr, 2024
+Code cleaned up and verified for Moose. 
+
+Start documentation process and quality check procedure.
+
+Once done, we will start uploading things onto kaggle and github (hopefully before mayday).
+
+
 ## 18th, Apr, 2024
 OAPR released. Note it is still built with the first generation framework. The NG framework starts with Moose.
 
