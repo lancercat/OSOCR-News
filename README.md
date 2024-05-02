@@ -1,6 +1,6 @@
 # OSOCR-News
 ## 2nd, May, 2024
-LSCT family will be finally coming to light if I can pull off the Major Revision. 
+C4/LSCT family will be finally coming to light if I can pull off the Major Revision. 
 
 The stage has been set, buckle up.
 
