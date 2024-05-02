@@ -4,6 +4,8 @@ C4/LSCT family will be finally coming to light if I can pull off the Major Revis
 
 The stage has been set, buckle up.
 
+And from stage 2 of the NG framework we are considering to stop support for GPUs with less than 16 GiB of VRAM
+
 ## 22th, Apr, 2024
 Code cleaned up and verified for Moose. 
 
@@ -63,7 +65,7 @@ Spoiler: The NG framework will natively support multi-GPU parallel training but 
 
 (you can have your guess now, we will hopefully ship that part in late 2024 if smooth.)
 
-10GB cards will be supported till 2025. 
+~~ 10GB cards will be supported till 2025. ~~
 
 ## 1st, OCT, 2023i
 
