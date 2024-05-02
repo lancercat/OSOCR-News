@@ -65,7 +65,7 @@ Spoiler: The NG framework will natively support multi-GPU parallel training but 
 
 (you can have your guess now, we will hopefully ship that part in late 2024 if smooth.)
 
-~~ 10GB cards will be supported till 2025. ~~
+~~10GB cards will be supported till 2025.~~
 
 ## 1st, OCT, 2023i
 
