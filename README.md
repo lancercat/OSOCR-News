@@ -1,6 +1,6 @@
 # OSOCR-News
 ## 5th, May, 2024
-Depends on need, C4-Family may receive a weird DLC in the next months, 
+Depends on an specific need, C4-Family may receive a weird DLC in the next months, 
 
 which means we may or may not get the first of the "far more intresting stuffs" finished befor the AAAI ddl.
 
