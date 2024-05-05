@@ -1,4 +1,9 @@
 # OSOCR-News
+## 5th, May, 2024
+Depends on need, C4-Family may receive a weird DLC in the next months, 
+
+which means we may or may not get the first of the "far more intresting stuffs" finished befor the AAAI ddl.
+
 ## 2nd, May, 2024
 C4/LSCT family will be finally coming to light if I can pull off the Major Revision. 
 
