@@ -1,4 +1,7 @@
 # OSOCR-News
+## 28th, May, 2024
+Proceeding to adopt new datasets like FudanVI, Union14M, and others. 
+
 ## 5th, May, 2024
 Due to a specific application need, C4-family may receive a weird DLC (object ~~282~~ 305) in the next months, 
 
