@@ -1,6 +1,6 @@
 # OSOCR-News
 ## 5th, May, 2024
-Due to a specific application need, C4-family may receive a weird DLC (object282) in the next months, 
+Due to a specific application need, C4-family may receive a weird DLC (object ~~282~~ 305) in the next months, 
 
 which means we may or may not get the first of the "far more intresting stuffs" finished befor the AAAI ddl.
 
