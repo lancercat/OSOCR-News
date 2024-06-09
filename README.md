@@ -1,4 +1,8 @@
 # OSOCR-News
+## ⑨ th, June, 2024
+It's happening (maybe). 
+
+
 ## 28th, May, 2024
 Proceeding to adopt new datasets like FudanVI, Union14M, and others. 
 
