@@ -1,4 +1,8 @@
 # OSOCR-News
+## CIH day, June, 2024
+Dataset starts being added. Tuning for performance.
+
+
 ## ⑨ th, June, 2024
 It's happening (maybe). 
 
