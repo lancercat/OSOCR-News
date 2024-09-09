@@ -1,4 +1,8 @@
 # OSOCR-News
+## ⑨, ⑨, 2024
+The next release is scheduled in November, with more languages and better model flexibility. 
+
+
 ## CIH day, June, 2024
 Datasets start being added. Tuning for performance.
 
