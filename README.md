@@ -1,4 +1,10 @@
 # OSOCR-News
+## 17, Sep, 2024
+The next release will support bf16 and multi-gpu inference. 
+
+Multi-gpu training will be delayed to a future release (in a less usual manner).
+
+
 ## ⑨, ⑨, 2024
 The next release is scheduled in November, with more languages and better model flexibility. 
 
