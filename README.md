@@ -1,4 +1,13 @@
 # OSOCR-News
+## 10, Dec, 2024
+The next release still needs to wait. 
+
+We are refactoring the full framework for a more elegant implement of [something]. 
+ETA one or two months. Please also expect a big performance leap :)
+
+Framework NG-> NG+
+
+
 ## 17, Sep, 2024
 The next release will support bf16 and multi-gpu inference. 
 
