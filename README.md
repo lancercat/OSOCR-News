@@ -2,7 +2,7 @@
 ## 08, Jan, 2025
 The next release is internally frozen. There are several deep and winding rabbit holes to be dig into in the future works.
 
-Expect CFOR level generalization performance while being fully inductive.
+Expect CFOR level generalization performance while being fully inductive, and a big leap from Moose.
 
 Revealing more will break anonymity so pardon me being vague. 
 
