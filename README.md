@@ -1,4 +1,14 @@
 # OSOCR-News
+## 08, Jan, 2025
+The next release is internally frozen. There are several deep and winding rabbit holes to be dig into in the future works.
+
+Expect CFOR level generalization performance while being fully inductive.
+
+Revealing more will break anonymity so pardon me being vague. 
+
+Have to say that time flies fast. 
+
+
 ## 10, Dec, 2024
 The next release still needs to wait. 
 
