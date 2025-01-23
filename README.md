@@ -1,4 +1,11 @@
 # OSOCR-News
+## 23, Jan, 2025
+Writing proposal && a paper
+
+Will proceed to release CFOR training code/data/documents once these shenenigans settle down... 
+
+That's why I only put a Q1-2025 DDL when its just a few days of work... You just don't know what other tasks can fly in...
+
 ## 08, Jan, 2025
 The next release is internally frozen. There are several deep and winding rabbit holes to be dig into in the future works.
 
