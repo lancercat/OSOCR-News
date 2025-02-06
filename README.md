@@ -1,4 +1,7 @@
 # OSOCR-News
+## 6, Feb, 2025
+Object 310 is happening. I want to put some sneak peeks but i cannot... 
+
 ## 23, Jan, 2025
 Writing proposal && a paper
 
