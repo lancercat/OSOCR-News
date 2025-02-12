@@ -1,4 +1,8 @@
 # OSOCR-News
+## 12, Feb, 2025
+
+Object 310 is undergoing final reproducibility checking.... After this I *should* have the time to clean up C4.
+
 ## 6, Feb, 2025
 Object 310 is happening. I want to put some sneak peeks but i cannot... 
 
