@@ -1,6 +1,6 @@
 # OSOCR-News
 ## 24, Feb, 2025
-OpenCCD is returning to framework NG, in a slightly different form
+OpenCCD (VSDF) is returning to framework NG, in a slightly different form
 ## 12, Feb, 2025
 
 Object 310 is undergoing final reproducibility checking.... After this I *should* have the time to clean up C4.
