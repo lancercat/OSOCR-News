@@ -1,4 +1,6 @@
 # OSOCR-News
+## 25, Feb, 2025
+CFOR training code should be available one week after icdar ddl... (sigh)
 ## 24, Feb, 2025
 OpenCCD (VSDF) is returning to framework NG, in a slightly different form
 ## 12, Feb, 2025
