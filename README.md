@@ -1,4 +1,8 @@
 # OSOCR-News
+## 18, Mar, 2025
+framework 320 is taking form, after that i will go on clean up CFOR training code... 
+I didn't forget it, just too may stuff going on and too tired to do the cleaning during weekends.
+
 ## 25, Feb, 2025
 CFOR training code should be available one week after icdar ddl... (sigh)
 
