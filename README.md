@@ -1,4 +1,12 @@
 # OSOCR-News
+## 21, Mar, 2025
+Branched for CFOR. Cleaning starts. 
+
+seriously speaking object 310 is far better that CFOR even with an inductive setup... 
+
+Plus LSCT is already modernized... So not really motivated to clean up this legacy... But a promise is a promise afterall.
+
+
 ## 18, Mar, 2025
 framework 320 is taking form, after that i will go on clean up CFOR training code... 
 I didn't forget it, just too may stuff going on and too tired to do the cleaning during weekends.
