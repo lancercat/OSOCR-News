@@ -1,6 +1,6 @@
 # OSOCR-News
 ##  ⑨ th, June, 2025
-Starting to document Object 310, which is fully inductive and much more powerful than CFOR.
+Starting to document Watch-and-Act (Object 310), which is fully inductive and much more powerful than CFOR.
 See you in Wuhan. 
 
 ## 21, Mar, 2025
