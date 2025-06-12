@@ -1,6 +1,6 @@
 # OSOCR-News
 ## 12th, June, 2025
-Watch-and-Act+ (Object 313) is feature complete. We get some slightly performance improvement beyond object 310
+Watch-and-Act+ (Object 313) is feature complete. We get some mild performance improvements beyond object 310
 
 Development efforts now goes to Object 32x, where we will stage a more flexible routing framework with a more inclusive protocol
 
