@@ -1,4 +1,6 @@
 # OSOCR-News
+## 23th, June, 2025
+32x will be a full fledged MARL system (likely). 
 ## 12th, June, 2025
 Watch-and-Act+ (Object 313) is feature complete. We get some mild performance improvements beyond object 310
 
