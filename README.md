@@ -1,4 +1,6 @@
 # OSOCR-News
+## 24th, June, 2025
+Object 35x will come in early/mid 2026 (maybe). Let's move beyond OCR
 ## 23th, June, 2025
 32x will be a full fledged MARL system (likely). 
 ## 12th, June, 2025
