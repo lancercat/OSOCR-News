@@ -1,4 +1,7 @@
 # OSOCR-News
+## 30th, Jul, 2025
+synthetic cotraining (C4) and multi-part representation (OAPR) will return in 32x. Hopefully in the first release. 
+
 ## 24th, June, 2025
 Object 35x will come in early/mid 2026 (maybe). Let's move beyond OCR
 ## 23th, June, 2025
