@@ -4,7 +4,7 @@ Object 313 is still undergoing analysis. Will release after getting better consi
 
 Object 320 is reaching first prototype phase soon
 
-Object Watch-and-Act (Object 310) has been released and can do smth VLMs can't.
+Object Watch-and-Act (Object 310) has been released and can do smth VLMs can't. Much better than C4.
 
 See you in Wuhan!
 
