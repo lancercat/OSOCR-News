@@ -1,4 +1,16 @@
 # OSOCR-News
+## 25th, Aug, 2025
+Object 313 is still undergoing analysis. Will release after getting better consistency
+
+Object 320 is reaching first prototype phase soon
+
+Object Watch-and-Act (Object 310) has been released and can do smth VLMs can't.
+
+See you in Wuhan!
+
+https://github.com/lancercat/wna
+
+
 ## 30th, Jul, 2025
 synthetic cotraining (C4) and multi-part representation (OAPR) will return in 32x. Hopefully in the first release. 
 
