@@ -1,4 +1,8 @@
 # OSOCR-News
+## 23th, Sep, 2025
+Live demo GUI of our icdar2025 paper (Object 310) will be updated soon.
+
+
 ## 25th, Aug, 2025
 Object 313 is still undergoing analysis. Will release after getting better consistency
 
