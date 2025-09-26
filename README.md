@@ -1,4 +1,7 @@
 # OSOCR-News
+## 26th, Sep, 2025
+Object 32x will come with a much more flexible framework, stay tunned :)
+
 ## 23th, Sep, 2025
 Live demo GUI of our icdar2025 paper (Object 310) will be updated soon.
 
