@@ -1,4 +1,11 @@
-# OSOCR-News
+# OSOCR-News+
+## 6th, Oct, 2025
+<img width="1248" height="333" alt="image" src="https://github.com/user-attachments/assets/b0e12425-f283-41c5-8393-98e735a2cec5" />
+
+vram signature of Object 320 is kinda wild (Full scale, training mode, testing mode will be light as always) 
+
+LSCT has finally been 50% modernized, hurrah!
+
 ## 26th, Sep, 2025
 Object 32x will come with a much more flexible framework (and lsct has be modernized), stay tunned :)
 
