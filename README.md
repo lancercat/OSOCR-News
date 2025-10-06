@@ -6,6 +6,8 @@ vram signature of Object 320 is kinda wild (Full scale, training mode, testing m
 
 LSCT has finally been 50% modernized, hurrah!
 
+There are alot happend behind the scene, but it should be worth the long journey. 
+
 ## 26th, Sep, 2025
 Object 32x will come with a much more flexible framework (and lsct has be modernized), stay tunned :)
 
