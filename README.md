@@ -1,6 +1,7 @@
 # OSOCR-News+
 ## ⑨ th, Oct, 2025
 <img width="737" height="86" alt="image" src="https://github.com/user-attachments/assets/c15cc9a5-f9c9-4c79-b5e8-4fcd326c1292" />
+
 No promise--- but i will try to contain 320 training in a single T4
 
 ## 6th, Oct, 2025
