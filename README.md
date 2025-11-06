@@ -1,4 +1,6 @@
 # OSOCR-News+
+## 6th, Nov, 2025
+320 finally starts to converge--- took me a while to hunt down the bugs... 
 ## ⑨ th, Oct, 2025
 <img width="737" height="86" alt="image" src="https://github.com/user-attachments/assets/c15cc9a5-f9c9-4c79-b5e8-4fcd326c1292" />
 
