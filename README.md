@@ -1,4 +1,7 @@
 # OSOCR-News+
+## 18th, Dec, 2025
+Object 320 is about to enter Beta. It will be beyond Open-set and likely beyond OCR. 
+Stay tunned.
 ## 6th, Nov, 2025
 320 finally starts to converge--- took me a while to hunt down the bugs... 
 ## ⑨ th, Oct, 2025
