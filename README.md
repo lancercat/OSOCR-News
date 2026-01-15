@@ -1,7 +1,8 @@
 # OSOCR-News+
 ## 15th, Jan, 2025
 Love, peace, and cat
-<img width="479" height="1426" alt="image" src="https://github.com/user-attachments/assets/4c4e7503-d8bc-4157-af3a-b51c45e5a146" />
+
+<img width="128" height="320" alt="image" src="https://github.com/user-attachments/assets/4c4e7503-d8bc-4157-af3a-b51c45e5a146" />
 
 ## 18th, Dec, 2025
 Object 320 is about to enter Beta. It will be beyond Open-set and likely beyond OCR. 
