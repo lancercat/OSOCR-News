@@ -1,5 +1,10 @@
 # OSOCR-News+
-## 15th, Jan, 2025
+## 18th, Jun, 2026 
+Object 320-EX coming soon. 
+
+Teaser: smth with a significantly bigger scope under dev. hope it can make it late 2026 or early 2027. 
+
+## 15th, Jan, 2026
 Love, peace, and cat
 
 <img width="128" height="320" alt="image" src="https://github.com/user-attachments/assets/4c4e7503-d8bc-4157-af3a-b51c45e5a146" />
