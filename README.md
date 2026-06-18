@@ -1,5 +1,7 @@
 # OSOCR-News+
 ## 18th, Jun, 2026 
+Object 320-beta (egyptology) out. 
+
 Object 320-EX coming soon. 
 
 Teaser: smth with a significantly bigger scope under dev. hope it can make it late 2026 or early 2027. 
