@@ -4,9 +4,12 @@ Object 320-EX out.
 
 Give us a few weeks to release the weights and documents...
 
-Ugh I should not have used that 20 year old disk for release test--- 
+Ugh I should not have used that 20 year old disk for release test
 
 took an afternoon to rerun every darn thing...
+
+Anyways, see you in Malmo
+<img width="567" height="322" alt="image" src="https://github.com/user-attachments/assets/1232c4ad-3ea2-48fe-886c-b94125406104" />
 
 
 ## 18th, Jun, 2026 
