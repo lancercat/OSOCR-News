@@ -1,14 +1,21 @@
 # OSOCR-News+
 ## 30th, Jun, 2026
-Object 320-EX out. 
+Code for 320-EX (lancercat/uni-zero, ECCV-2026) has been released. 
 
-Give us a few weeks to release the weights and documents...
+It is fully tested on my machine, 
+
+but we plan to do the documentation on a clean installation,
+
+to make sure we don't miss weight files or dependencies.
+
+This is not trivial as i am low on disks and more importantly, time. 
+
+Weights, data, and documents will be ready before the conference take place. 
 
 Ugh I should not have used that 20 year old disk for release test
 
-took an afternoon to rerun every darn thing...
+Nothing is lost but took an afternoon to rerun every darn thing...
 
-Anyways, see you in Malmo
 <img width="567" height="322" alt="image" src="https://github.com/user-attachments/assets/1232c4ad-3ea2-48fe-886c-b94125406104" />
 
 
