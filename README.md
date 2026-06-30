@@ -1,4 +1,14 @@
 # OSOCR-News+
+## 30th, Jun, 2026
+Object 320-EX out. 
+
+Give us a few weeks to release the weights and documents...
+
+Ugh I should not have used that 20 year old disk for release test--- 
+
+took an afternoon to rerun every darn thing...
+
+
 ## 18th, Jun, 2026 
 Object 320-beta (egyptology) out. 
 
