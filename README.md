@@ -1,4 +1,13 @@
 # OSOCR-News+
+## 22th, Jul, 2026
+Data, model, and documents for 320-EX (lancercat/uni-zero, ECCV-2026) has been released 
+
+You can find them in the repo. A more userfriendly guide page will appear after we finish the poster. 
+
+https://github.com/lancercat/uni-zero
+
+Let's scale beyond OCR. 
+
 ## 30th, Jun, 2026
 Code for 320-EX (lancercat/uni-zero, ECCV-2026) has been released. 
 
