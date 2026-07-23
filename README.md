@@ -1,4 +1,9 @@
 # OSOCR-News+
+## 23th, jul, 2026
+The segmentation branch is an unscalable dumpster fire. 
+
+Refactoring underway. 
+
 ## 22th, Jul, 2026
 Data, model, and documents for 320-EX (lancercat/uni-zero, ECCV-2026) has been released 
 
