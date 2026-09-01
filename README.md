@@ -1,4 +1,8 @@
 # OSOCR-News+
+
+## 1st, ⑨, 2026
+the refactor is much bigger than i originally thought (yes object-320 api is obsolete at this point)
+
 ## 23th, jul, 2026
 The segmentation branch is an unscalable dumpster fire. 
 
