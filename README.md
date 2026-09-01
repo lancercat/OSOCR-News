@@ -1,7 +1,7 @@
 # OSOCR-News+
 
 ## 1st, ⑨, 2026
-the refactor is much bigger than i originally thought (yes object-320 api is obsolete at this point)
+the refactor is much bigger than i originally thought due to various constraints (yes object-320 api is obsolete at this point)
 
 I wish i could have a rtx 6000 blackwell, well i can wish :)
 
