@@ -1,4 +1,9 @@
 # OSOCR-News+
+## 4th, ⑨, 2026
+It's going to be a rewrite...
+
+<img width="643" height="1140" alt="image" src="https://github.com/user-attachments/assets/716d9889-237f-45d0-b105-3e933de2c1b5" />
+
 
 ## 1st, ⑨, 2026
 the refactor is much bigger than i originally thought due to various constraints (yes object-320 api is obsolete at this point)
