@@ -1,4 +1,7 @@
 # OSOCR-News+
+## 21th, Oct, 2025
+the first imcls task of 330 framework alpha1 is ready to train... 
+
 ## 24th, ⑨, 2026
 
 rewriting is going on... object 330 is likely to be about ``this''
