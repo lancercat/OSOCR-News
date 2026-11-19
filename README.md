@@ -1,4 +1,7 @@
 # OSOCR-News+
+## 19th, Oct, 2026
+Object 330 still needs time. we will see where this goes
+
 ## 22th, Oct, 2026
 if the current design holds water, imcls tasks on the 330 framework can be trained on a single p106 or 1050ti. 
 <img width="374" height="38" alt="image" src="https://github.com/user-attachments/assets/912e160e-d4dd-42b9-b1f5-f71e1ef52965" />
